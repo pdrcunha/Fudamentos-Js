@@ -3,7 +3,7 @@ function apresentarClassica(nome){
     return "Meu nome é " + nome;
 }
 console.log(apresentarClassica("Classica"))
-//Expreção
+//Expressão
 const apresentarEX = function(nome){return "Meu nome é " + nome}
 console.log(apresentarEX("Expreção"))
 // !!!!!!!!!!! arrow => elá nao e nomeada tambem e colocada em uma variavel
