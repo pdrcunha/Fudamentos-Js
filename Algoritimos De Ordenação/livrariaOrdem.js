@@ -1,4 +1,4 @@
-//Preciso ordernar o array de objetos (Livros) do mais barato ao mais caro
+//Preciso ordernar o array de objetos (Livros) do mais barato ao mais caro (SELECTION SORT)
 const livro = [{ Livro: "JavaScript", Preco: 25 },
 { Livro: "PHP", Preco: 15 },
 { Livro: "Java", Preco: 30 },
